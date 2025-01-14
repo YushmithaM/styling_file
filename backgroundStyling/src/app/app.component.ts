@@ -9,5 +9,5 @@ import { RouterOutlet } from '@angular/router';
 })
 export class AppComponent {
   title = 'backgroundStyling';
-  theme = 'dark';
+  theme = 'light';
 }
