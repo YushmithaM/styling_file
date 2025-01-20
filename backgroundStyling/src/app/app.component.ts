@@ -11,5 +11,5 @@ import { BrandSettingComponent } from "./brand-setting/brand-setting.component";
 })
 export class AppComponent {
   title = 'backgroundStyling';
-  theme = 'light';
+  theme = 'dark';
 }
